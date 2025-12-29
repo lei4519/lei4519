@@ -19,6 +19,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 
 
+[![Blog](https://img.shields.io/static/v1?label=|&message=Blog&color=ff&style=for-the-badge&logo=logoname&logo-color=white)](https://lei4519.github.io/blog)
+
 <!--
 
 <p align="left">  
