@@ -18,27 +18,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lei4519&rank=-A,-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left">  
- 
-<a href="https://github.com/lei4519/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lei4519&repo=blog" />
-</a>
-
-</p>
-
-<p align="left">  
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lei4519&layout=compact&langs_count=8" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lei4519&layout=compact&langs_count=8" />
-</a>
-
-</p>
 
 <!--
 
